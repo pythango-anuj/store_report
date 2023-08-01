@@ -1,4 +1,4 @@
-Step1: Clone the project into the system by creating the local environment.
+#Step1: Clone the project into the system by creating the local environment.
 
 virtualenv venv
 cd venv/scripts
